@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SuprabhatRavi
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Internship
 - 📫 My E-mail is suprabhatkumarravi@gmail.com
 
 <!---
