@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SuprabhatRavi
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning DSA
 - 📫 My E-mail is suprabhatkumarravi@gmail.com
 
 <!---
