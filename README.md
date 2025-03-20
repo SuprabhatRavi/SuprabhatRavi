@@ -1,4 +1,4 @@
-# Hola, I’m Suprabhat—Accidental Code Wrangler
+# Hola, I’m Suprabhat
 
 Hey, you stumbled into my GitHub! Here’s some stuff I made:
 
